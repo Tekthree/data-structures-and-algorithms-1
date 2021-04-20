@@ -66,7 +66,7 @@ Do not use a return statement.
 
 For example:
 const a = [1, 2, 3];
-appendFirstToLast(a);
+appendFirstT oLast(a);
 console.log(a) prints [1, 2, 3, 1]
 ------------------------------------------------------------------------------------------------ */
 
@@ -94,6 +94,8 @@ const addBirthYearProperty = (obj, year) => {
   // Solution code here...
   obj.yearBorn = year;
   console.log(obj);
+
+  
 };
 
 /* ------------------------------------------------------------------------------------------------
