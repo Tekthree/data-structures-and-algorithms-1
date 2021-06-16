@@ -20,4 +20,4 @@ decrement 1 from i
 when if statement is finished return new array
 
 ## Approach & Efficiency 
-I took the if then statement approach to iterate through the array and reverse the elements.
+I took the for loop approach to iterate through the array and reverse the elements.
