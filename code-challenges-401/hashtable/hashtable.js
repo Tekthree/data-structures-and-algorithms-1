@@ -33,6 +33,17 @@ class HashTable{
     return deleted;
 
   }
+  
+  getItem = key => {
+    const idx = hashStringToInt(key, this.table.length)
+    
+    if(!this.table[idx]){
+      return null;
+    }
+    
+    return this.table[idx].find(x => x[0] === key)[1];
+  }
+}
 
   search(key){
     let idx = hash(key, this.size);
