@@ -5,9 +5,10 @@
 
   - Once you are done with your article, code a working, tested implementation of Quick Sort based on the pseudocode provided.
 
+## Blog Post
+[blog](./BLOG.md)
+
 
 ## Whiteboard
 ![quick-sort](./quick-sort.jpg)
 
-## Blog Post
-[blog](./BLOG.md)
