@@ -5,9 +5,10 @@
 
 - Once you are done with your article, code a working, tested implementation of Merge Sort based on the pseudocode provided.
 
+## Blog Post
+[blog](./BLOG.md)
+
 
 ## Whiteboard
 ![merge-sort](./merge-sort.png)
 
-## Blog Post
-[blog](./BLOG.md)
